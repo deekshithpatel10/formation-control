@@ -1,3 +1,3 @@
-### Agent swarm forming my lastname: PATEL 
+### Agent swarm forming my last name: PATEL 
 
-<video src="https://github.com/deekshithpatel10/formation-control/blob/main/PATEL_formation.mp4" width="100%" controls></video>
+https://github.com/user-attachments/assets/56886067-c421-4ef1-9a99-1bf5ceab9b09
